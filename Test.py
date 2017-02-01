@@ -1,8 +1,13 @@
+
 def for_loop(iterador):
     for i in range(0, iterador):
         print ("Hola Mundo")
 
-n = int(input("Enter a number : "))
+person = "Miguel"
+
+n = int(input("Please " + person + " Enter a number : "))
+
 for_loop(n);
 
 print ("Fin")
+
