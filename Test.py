@@ -4,3 +4,5 @@ def for_loop(iterador):
 
 n = int(input("Enter a number : "))
 for_loop(n);
+
+print ("Fin")

@@ -1,0 +1,17 @@
+commit a6d71f5a2ad1cfc26789101be409d4f973f29138
+Author: Miguel <miguelangelsonarc@hotmail.com>
+Date:   Tue Jan 31 02:45:35 2017 -0600
+
+    For loop with a method
+
+commit 13ce2b54b6210e74a6bfebf20da6c8f338c01f7d
+Author: Miguel <miguelangelsonarc@hotmail.com>
+Date:   Tue Jan 31 02:42:43 2017 -0600
+
+    For loop has been implemented
+
+commit 86a14b3c08cb65d07de6faed73242355a5c8976b
+Author: Miguel <miguelangelsonarc@hotmail.com>
+Date:   Tue Jan 31 02:31:45 2017 -0600
+
+    Primer commit
